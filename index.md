@@ -14,3 +14,5 @@ public class HelloWorld
   }
 }
 ```
+- [ ] Solve leetcode
+- [ ] Study ML
